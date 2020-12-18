@@ -1,2 +1,2 @@
 # Employee_Management_System
-Spring, spring data jpa, Hibernate, MySql database
+Spring MVC, Spring data jpa, Hibernate, MySql database
